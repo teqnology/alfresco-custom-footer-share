@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<theme>
+    <title>Custom Theme</title>
+    <title-id>theme.customTheme</title-id>
+    <css-tokens>
+        <less-variables>
+            <!-- Only for Alfresco 5.x onwards and latest Aikau version -->
+        </less-variables>
+    </css-tokens>
+</theme>
